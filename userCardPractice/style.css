@@ -1,0 +1,69 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+.container{
+    display:flex;
+    justify-content:center;
+    align-items: top;
+    height:100vh;
+    width:100vw;
+    background-color:white;
+    padding-top:50px;
+    font-family:'Roboto', sans-serif;
+}
+.card{
+    background-color: white;
+    height:50%;
+    width:50%;
+    background:linear-gradient(180deg,#16a2b8 20%,#fff 20%);
+    border: solid grey;
+    border-top:none;
+
+}
+.top{
+    margin:10px;
+}
+.bottom{
+    margin:20px;
+}
+.rockBottom{
+    display:flex;
+    margin-top: 15px;
+
+
+}
+
+.profile{
+    height:100px;
+    border:solid 5px #fff;
+    border-radius: 50%;
+    margin-top:24px;
+    margin-left:25px;
+    box-shadow:1px 2px 2px 2px grey;
+}
+.janeDoe{
+    margin-left:20px;
+    
+}
+.location{
+    display:flex;
+    margin-left:20px;
+}
+.marker{
+    height:20px;
+    width:auto;
+}
+.seattle{
+    font-size: 16pt;
+    margin-left:12px;
+}
+.gear{
+    height:16px;
+    margin-right:8px ;
+    align-self:center;
+}
+p{
+    margin-left:8px;
+}
