@@ -1,0 +1,24 @@
+.search {
+    color:aquamarine;
+    background-color:aliceblue;
+    border-radius: 50px;
+    width:15%;
+    border-color:aquamarine;
+}
+.plus{
+    border-radius:50%;
+    height: 8vh;
+    width:5vw;
+    font-size: larger;
+    color:white;
+    background-color:aquamarine;
+    border:0;
+    margin:20px;
+}
+.create{
+    color:white;
+    background-color: navy;
+    width:18vw;
+    box-shadow: 4px 4px 2px black;
+
+}
