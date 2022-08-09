@@ -1,0 +1,27 @@
+* {
+    font-family: sans-serif;
+}
+h1{
+    text-align: left;
+    background-color: black;
+    color:rgb(255, 255, 255);
+
+}
+h1 span {
+    color:aqua;
+}
+
+
+h2{
+    background-color: rebeccapurple;
+    color:aliceblue;
+    text-align: center;
+    font-style:italic;
+
+}
+h3{
+    background-color:rgb(85, 166, 247);
+    color:indigo;
+    text-align:right;
+    text-decoration: underline;
+}
